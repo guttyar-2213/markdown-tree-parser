@@ -1,29 +1,29 @@
 {
-  "name": "markdown-tree-parser",
-  "version": "0.12.3",
-  "description": "Parse markdwon string to AST tree",
-  "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "ava": "^1.4.1"
-  },
-  "scripts": {
-    "test": "ava"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ysugimoto/markdown-tree-parser.git"
-  },
-  "keywords": [
-    "Markdown"
-  ],
-  "author": "Yoshiaki Sugimoto",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ysugimoto/markdown-tree-parser/issues"
-  },
-  "homepage": "https://github.com/ysugimoto/markdown-tree-parser#readme"
+	"name": "markdown-tree-parser",
+	"version": "0.12.3",
+	"description": "Parse markdwon string to AST tree",
+	"main": "index.js",
+	"directories": {
+		"test": "tests"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^1.4.1"
+	},
+	"scripts": {
+		"test": "ava"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/guttyar-2213/markdown-tree-parser.git"
+	},
+	"keywords": [
+		"Markdown"
+	],
+	"author": "guttyar-2213",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ysugimoto/markdown-tree-parser/issues"
+	},
+	"homepage": "https://github.com/ysugimoto/markdown-tree-parser#readme"
 }
